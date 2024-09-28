@@ -26,8 +26,8 @@ operate_vehicle(car)
 '''rather than makinf a fxn like operate_engine 
 we can directly call it using subclass name'''
 car.start_engine()
-"------------------- Krish Naik Sir ------------------------------------"
-# example from gfg
+'''------------------- Krish Naik Sir ------------------------------------'''
+''' ------------------ example from gfg ----------------------------------'''
 from abc import ABC,abstractmethod
 
 class Animal(ABC):
